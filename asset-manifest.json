@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Harshh-sahu/ShopApp.git/static/css/main.09796329.css",
-    "main.js": "/Harshh-sahu/ShopApp.git/static/js/main.ac519d95.js",
-    "static/media/logo.png": "/Harshh-sahu/ShopApp.git/static/media/logo.abe38ad162a16fe8cdda.png",
-    "index.html": "/Harshh-sahu/ShopApp.git/index.html",
-    "main.09796329.css.map": "/Harshh-sahu/ShopApp.git/static/css/main.09796329.css.map",
-    "main.ac519d95.js.map": "/Harshh-sahu/ShopApp.git/static/js/main.ac519d95.js.map"
+    "main.css": "/ShopApp/static/css/main.09796329.css",
+    "main.js": "/ShopApp/static/js/main.b4db92e8.js",
+    "static/media/logo.png": "/ShopApp/static/media/logo.abe38ad162a16fe8cdda.png",
+    "index.html": "/ShopApp/index.html",
+    "main.09796329.css.map": "/ShopApp/static/css/main.09796329.css.map",
+    "main.b4db92e8.js.map": "/ShopApp/static/js/main.b4db92e8.js.map"
   },
   "entrypoints": [
     "static/css/main.09796329.css",
-    "static/js/main.ac519d95.js"
+    "static/js/main.b4db92e8.js"
   ]
 }
